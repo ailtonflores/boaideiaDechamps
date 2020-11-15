@@ -17,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/ailtonflores/boaideiaDechamps/issues"
   },
-  "homepage": "https://github.com/ailtonflores/boaideiaDechamps#readme"
+  "homepage": "https://github.com/ailtonflores/boaideiaDechamps#readme",
+  "dependencies": {
+    "next": "^10.0.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
 }
